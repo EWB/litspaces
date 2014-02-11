@@ -190,7 +190,16 @@ blockquote:after {
     font-size: 1em;
     text-decoration: none;
 }
-
+li.views-fluid-grid-item {
+    background-color: #FFF;
+    background-image: none;
+    border: 1px solid #AAAAAA;
+    color: #444444;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 3px;
+    vertical-align: top;
+}
 
 
 
