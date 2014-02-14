@@ -201,5 +201,17 @@ li.views-fluid-grid-item {
     vertical-align: top;
 }
 
+.page-spaces #sidebar-first {
+
+    width: 20%;
+}
+.page-spaces .sidebar-first #content {
+    margin-left: 20%;
+    margin-right: 0;
+}
+.page-spaces .one-sidebar #content {
+    width: 80%;
+}
+
 
 
