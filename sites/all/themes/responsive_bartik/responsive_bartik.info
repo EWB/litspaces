@@ -9,6 +9,7 @@ stylesheets[all][] = css/colors.css
 stylesheets[print][] = css/print.css
 
 scripts[] = js/collapsible-menu.js
+scripts[] = jquery.ui.touch-punch.min.js
 
 regions[header] = Header
 regions[help] = Help
